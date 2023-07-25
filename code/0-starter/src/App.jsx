@@ -1,5 +1,6 @@
 // #1. Create the component step
 import React from 'react';
+import RecipeTitle from './RecipeTitle' // Use the RecipeTitle component - Step 6
 
 function App() {
     return (
